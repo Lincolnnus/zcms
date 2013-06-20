@@ -1,0 +1,7 @@
+title: 万门大学 Beta
+description: 万门Beta版
+theme_base: http://localhost:6543/themes/parallax/
+theme_default: default.html
+theme: default.html
+order: [index.rst, departments, x, about.rst]
+exclude: []
