@@ -1,0 +1,7 @@
+title: 万门大学物理系
+description: 万门物理系
+theme_base: http://localhost:6543/themes/bootstrap/
+theme_default: default.html
+theme: home.html
+order: [index.rst, booklist, video, experience,about.rst]
+exclude: []

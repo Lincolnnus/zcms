@@ -1,0 +1,5 @@
+title: 万门经验贴
+description: 经验贴
+theme_default: default.html
+order: [index.rst, booklist, video, experience,about.rst]
+exclude:  [index.rst]
